@@ -2,9 +2,9 @@
   "name": "webpack-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "",
-  "author": "",
-  "license": "",
+  "repository": "git@github.com:piyalcodes/webpack-bootstrap.git",
+  "author": "Hardwit",
+  "license": "MIT",
   "scripts": {
     "dev": "cross-env NODE_ENV=dev webpack-dev-server --progress --open --mode development --config webpack.config.js",
     "build": "webpack -p --progress --mode production --config webpack.config.js"
