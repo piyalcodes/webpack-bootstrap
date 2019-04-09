@@ -1,4 +1,6 @@
+import './scss/mixin.scss'
 import 'bootstrap'
-import './scss/index.scss'
+import './scss/reset.scss'
+import './scss/styles.scss'
 
 console.log($().jquery)
